@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "/title/tt8176054/",
+    "name": "Pariyerum Perumal",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGYyOTdhMWEtMjdkNi00ZWJhLTkwYTUtODI0M2E4NjIzMTkyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+    "description": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+    "review": {
+        "@type": "Review",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt8176054/"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "gurudent"
+        },
+        "dateCreated": "2018-09-29",
+        "inLanguage": "English",
+        "name": "Deep intense movie, brilliantly narrated script.",
+        "reviewBody": "A must watch movie for all. Go and watch with your families.Lets the change begins with our generation atleast.",
+        "reviewRating": {
+            "@type": "Rating",
+            "worstRating": 1,
+            "bestRating": 10,
+            "ratingValue": 10
+        }
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 15852,
+        "bestRating": 10,
+        "worstRating": 1,
+        "ratingValue": 8.7
+    },
+    "contentRating": "U",
+    "genre": [
+        "Drama"
+    ],
+    "datePublished": "2018-09-28",
+    "keywords": "death of a dog,friendship,caste discrimination,casteism,dog",
+    "trailer": {
+        "@type": "VideoObject",
+        "name": "Pariyerum Perumal Trailer (2018)",
+        "embedUrl": "/video/imdb/vi3544235033",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWI0NGQwZGYtYjdkZi00YjcyLWFhYjMtMDJkNjMwOTY0ZDdhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWI0NGQwZGYtYjdkZi00YjcyLWFhYjMtMDJkNjMwOTY0ZDdhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "description": ""
+    },
+    "actor": [
+        {
+            "@type": "Person",
+            "url": "/name/nm6453091/",
+            "name": "Kathir"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm6695317/",
+            "name": "Anandhi"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm6489058/",
+            "name": "Yogi Babu"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "url": "/name/nm6041683/",
+            "name": "Mari Selvaraj"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm10328250/",
+            "name": "Prabunath"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0691420/"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm6041683/",
+            "name": "Mari Selvaraj"
+        }
+    ],
+    "duration": "PT2H34M"
+}

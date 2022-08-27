@@ -1,0 +1,500 @@
+1  Rocketry: The Nambi Effect  2022  8.5  http://www.imdb.com/title/tt9263550/  
+
+2  Anbe Sivam  2003  8.4  http://www.imdb.com/title/tt0367495/  
+
+3  Golmaal  1979  8.4  http://www.imdb.com/title/tt0079221/  
+
+4  Nayakan  1987  8.4  http://www.imdb.com/title/tt0093603/  
+
+5  Jai Bhim  2021  8.4  http://www.imdb.com/title/tt15097216/  
+
+6  Pariyerum Perumal  2018  8.4  http://www.imdb.com/title/tt8176054/  
+
+7  3 Idiots  2009  8.4  http://www.imdb.com/title/tt1187043/  
+
+8  Apur Sansar  1959  8.3  http://www.imdb.com/title/tt0052572/  
+
+9  Manichitrathazhu  1993  8.3  http://www.imdb.com/title/tt0214915/  
+
+10  Kumbalangi Nights  2019  8.3  http://www.imdb.com/title/tt8413338/  
+
+11  Black Friday  2004  8.3  http://www.imdb.com/title/tt0400234/  
+
+12  Taare Zameen Par  2007  8.3  http://www.imdb.com/title/tt0986264/  
+
+13  C/o Kancharapalem  2018  8.3  http://www.imdb.com/title/tt7391996/  
+
+14  #Home  2021  8.3  http://www.imdb.com/title/tt10534500/  
+
+15  Soorarai Pottru  2020  8.3  http://www.imdb.com/title/tt10189514/  
+
+16  Dangal  2016  8.3  http://www.imdb.com/title/tt5074352/  
+
+17  Kireedam  1989  8.3  http://www.imdb.com/title/tt0237376/  
+
+18  Kaithi  2019  8.3  http://www.imdb.com/title/tt9900782/  
+
+19  Jersey  2019  8.3  http://www.imdb.com/title/tt8948790/  
+
+20  Asuran  2019  8.2  http://www.imdb.com/title/tt9477520/  
+
+21  96  2018  8.2  http://www.imdb.com/title/tt7019842/  
+
+22  Thevar Magan  1992  8.2  http://www.imdb.com/title/tt0105575/  
+
+23  777 Charlie  2022  8.2  http://www.imdb.com/title/tt7466810/  
+
+24  Visaaranai  2015  8.2  http://www.imdb.com/title/tt4991384/  
+
+25  Pather Panchali  1955  8.2  http://www.imdb.com/title/tt0048473/  
+
+26  Thalapathi  1991  8.2  http://www.imdb.com/title/tt0101649/  
+
+27  Sarpatta Parambarai  2021  8.2  http://www.imdb.com/title/tt11580854/  
+
+28  Natsamrat  2016  8.2  http://www.imdb.com/title/tt5311546/  
+
+29  Drishyam 2  2021  8.2  http://www.imdb.com/title/tt12361178/  
+
+30  Thani Oruvan  2015  8.2  http://www.imdb.com/title/tt4987556/  
+
+31  Sardar Udham  2021  8.2  http://www.imdb.com/title/tt10280296/  
+
+32  Aparajito  1956  8.2  http://www.imdb.com/title/tt0048956/  
+
+33  Vada Chennai  2018  8.2  http://www.imdb.com/title/tt5959980/  
+
+34  Jaane Bhi Do Yaaro  1983  8.2  http://www.imdb.com/title/tt0085743/  
+
+35  Khosla Ka Ghosla!  2006  8.2  http://www.imdb.com/title/tt0466460/  
+
+36  Drishyam  2013  8.1  http://www.imdb.com/title/tt3417422/  
+
+37  Chupke Chupke  1975  8.1  http://www.imdb.com/title/tt0072783/  
+
+38  Peranbu  2018  8.1  http://www.imdb.com/title/tt7738784/  
+
+39  Vikram  2022  8.1  http://www.imdb.com/title/tt9179430/  
+
+40  Agent Sai Srinivasa Athreya  2019  8.1  http://www.imdb.com/title/tt10214826/  
+
+41  Anniyan  2005  8.1  http://www.imdb.com/title/tt0376127/  
+
+42  Mahanati  2018  8.1  http://www.imdb.com/title/tt7465992/  
+
+43  Bangalore Days  2014  8.1  http://www.imdb.com/title/tt3668162/  
+
+44  Satya  1998  8.1  http://www.imdb.com/title/tt0195231/  
+
+45  Ratsasan  2018  8.1  http://www.imdb.com/title/tt7060344/  
+
+46  Super Deluxe  2019  8.1  http://www.imdb.com/title/tt7019942/  
+
+47  Premam  2015  8.1  http://www.imdb.com/title/tt4679210/  
+
+48  Gangs of Wasseypur  2012  8.1  http://www.imdb.com/title/tt1954470/  
+
+49  Devasuram  1993  8.1  http://www.imdb.com/title/tt0291855/  
+
+50  Bhaag Milkha Bhaag  2013  8.1  http://www.imdb.com/title/tt2356180/  
+
+51  Andhadhun  2018  8.1  http://www.imdb.com/title/tt8108198/  
+
+52  Drishyam  2015  8.1  http://www.imdb.com/title/tt4430212/  
+
+53  Aruvi  2016  8.1  http://www.imdb.com/title/tt5867800/  
+
+54  Kannathil Muthamittal  2002  8.1  http://www.imdb.com/title/tt0312859/  
+
+55  Guide  1965  8.1  http://www.imdb.com/title/tt0059246/  
+
+56  Chithram  1988  8.1  http://www.imdb.com/title/tt0214585/  
+
+57  Shahid  2012  8.1  http://www.imdb.com/title/tt2181831/  
+
+58  Iruvar  1997  8.1  http://www.imdb.com/title/tt0119385/  
+
+59  Vikram Vedha  2017  8.1  http://www.imdb.com/title/tt6148156/  
+
+60  Sairat  2016  8.1  http://www.imdb.com/title/tt5312232/  
+
+61  Zindagi Na Milegi Dobara  2011  8.1  http://www.imdb.com/title/tt1562872/  
+
+62  Paan Singh Tomar  2012  8.1  http://www.imdb.com/title/tt1620933/  
+
+63  Tumbbad  2018  8.1  http://www.imdb.com/title/tt8239946/  
+
+64  Mudhalvan  1999  8.1  http://www.imdb.com/title/tt0220656/  
+
+65  Chhichhore  2019  8.1  http://www.imdb.com/title/tt9052870/  
+
+66  Spadikam  1995  8.1  http://www.imdb.com/title/tt0292246/  
+
+67  Dhuruvangal Pathinaaru  2016  8.1  http://www.imdb.com/title/tt6380520/  
+
+68  Swades: We, the People  2004  8.1  http://www.imdb.com/title/tt0367110/  
+
+69  Black  2005  8.1  http://www.imdb.com/title/tt0375611/  
+
+70  Chak De! India  2007  8.1  http://www.imdb.com/title/tt0871510/  
+
+71  Jo Jeeta Wohi Sikandar  1992  8.1  http://www.imdb.com/title/tt0104561/  
+
+72  Papanasam  2015  8.1  http://www.imdb.com/title/tt4429128/  
+
+73  Pudhu Pettai  2006  8.1  http://www.imdb.com/title/tt0459516/  
+
+74  Mandela  2021  8.1  http://www.imdb.com/title/tt10687070/  
+
+75  Pyaasa  1957  8.1  http://www.imdb.com/title/tt0050870/  
+
+76  Munna Bhai M.B.B.S.  2003  8.1  http://www.imdb.com/title/tt0374887/  
+
+77  Soodhu Kavvum  2013  8.0  http://www.imdb.com/title/tt2877108/  
+
+78  PK  2014  8.0  http://www.imdb.com/title/tt2338151/  
+
+79  Article 15  2019  8.0  http://www.imdb.com/title/tt10324144/  
+
+80  Uri: The Surgical Strike  2019  8.0  http://www.imdb.com/title/tt8291224/  
+
+81  Queen  2013  8.0  http://www.imdb.com/title/tt3322420/  
+
+82  Kaakkaa Muttai  2014  8.0  http://www.imdb.com/title/tt3973410/  
+
+83  Talvar  2015  8.0  http://www.imdb.com/title/tt4934950/  
+
+84  Lagaan: Once Upon a Time in India  2001  8.0  http://www.imdb.com/title/tt0169102/  
+
+85  OMG: Oh My God!  2012  8.0  http://www.imdb.com/title/tt2283748/  
+
+86  Jigarthanda  2014  8.0  http://www.imdb.com/title/tt3569782/  
+
+87  Sarfarosh  1999  8.0  http://www.imdb.com/title/tt0200087/  
+
+88  Udaan  2010  8.0  http://www.imdb.com/title/tt1639426/  
+
+89  Barfi!  2012  8.0  http://www.imdb.com/title/tt2082197/  
+
+90  Theeran Adhigaaram Ondru  2017  8.0  http://www.imdb.com/title/tt7060460/  
+
+91  Sholay  1975  8.0  http://www.imdb.com/title/tt0073707/  
+
+92  Hera Pheri  2000  8.0  http://www.imdb.com/title/tt0242519/  
+
+93  Ustad Hotel  2012  8.0  http://www.imdb.com/title/tt2218988/  
+
+94  The Legend of Bhagat Singh  2002  8.0  http://www.imdb.com/title/tt0319736/  
+
+95  Angoor  1982  8.0  http://www.imdb.com/title/tt0215517/  
+
+96  Rang De Basanti  2006  8.0  http://www.imdb.com/title/tt0405508/  
+
+97  Baasha  1995  8.0  http://www.imdb.com/title/tt0139876/  
+
+98  Baahubali 2: The Conclusion  2017  8.0  http://www.imdb.com/title/tt4849438/  
+
+99  Masaan  2015  8.0  http://www.imdb.com/title/tt4635372/  
+
+100  Kahaani  2012  8.0  http://www.imdb.com/title/tt1821480/  
+
+101  Dil Chahta Hai  2001  8.0  http://www.imdb.com/title/tt0292490/  
+
+102  Maheshinte Prathikaaram  2016  8.0  http://www.imdb.com/title/tt4851630/  
+
+103  Virumandi  2004  8.0  http://www.imdb.com/title/tt0364647/  
+
+104  A Wednesday  2008  8.0  http://www.imdb.com/title/tt1280558/  
+
+105  Roja  1992  8.0  http://www.imdb.com/title/tt0105271/  
+
+106  Iqbal  2005  8.0  http://www.imdb.com/title/tt0453729/  
+
+107  Nil Battey Sannata  2015  8.0  http://www.imdb.com/title/tt5005684/  
+
+108  Kaun Pravin Tambe?  2022  8.0  http://www.imdb.com/title/tt18568902/  
+
+109  Pink  2016  8.0  http://www.imdb.com/title/tt5571734/  
+
+110  Pithamagan  2003  8.0  http://www.imdb.com/title/tt0376076/  
+
+111  Lage Raho Munna Bhai  2006  8.0  http://www.imdb.com/title/tt0456144/  
+
+112  Shershaah  2021  8.0  http://www.imdb.com/title/tt10295212/  
+
+113  Charulata  1964  8.0  http://www.imdb.com/title/tt0057935/  
+
+114  Anand  1971  8.0  http://www.imdb.com/title/tt0066763/  
+
+115  Jana Gana Mana  2022  8.0  http://www.imdb.com/title/tt13391710/  
+
+116  Alai Payuthey  2000  8.0  http://www.imdb.com/title/tt0242256/  
+
+117  Section 375  2019  8.0  http://www.imdb.com/title/tt8144834/  
+
+118  Bajrangi Bhaijaan  2015  8.0  http://www.imdb.com/title/tt3863552/  
+
+119  Omkara  2006  8.0  http://www.imdb.com/title/tt0488414/  
+
+120  Lucia  2013  8.0  http://www.imdb.com/title/tt2358592/  
+
+121  Bombay  1995  8.0  http://www.imdb.com/title/tt0112553/  
+
+122  Oru Vadakkan Veeragatha  1989  8.0  http://www.imdb.com/title/tt0230597/  
+
+123  Bommarillu  2006  8.0  http://www.imdb.com/title/tt0843326/  
+
+124  Indian  1996  8.0  http://www.imdb.com/title/tt0116630/  
+
+125  K.G.F: Chapter 2  2022  7.9  http://www.imdb.com/title/tt10698680/  
+
+126  K.G.F: Chapter 1  2018  7.9  http://www.imdb.com/title/tt7838252/  
+
+127  The Great Indian Kitchen  2021  7.9  http://www.imdb.com/title/tt13299890/  
+
+128  Haider  2014  7.9  http://www.imdb.com/title/tt3390572/  
+
+129  Rangasthalam  2018  7.9  http://www.imdb.com/title/tt7392212/  
+
+130  Mughal-E-Azam  1960  7.9  http://www.imdb.com/title/tt0054098/  
+
+131  Dilwale Dulhania Le Jayenge  1995  7.9  http://www.imdb.com/title/tt0112870/  
+
+132  Special Chabbis  2013  7.9  http://www.imdb.com/title/tt2377938/  
+
+133  Athadu  2005  7.9  http://www.imdb.com/title/tt0471571/  
+
+134  Maqbool  2003  7.9  http://www.imdb.com/title/tt0379370/  
+
+135  Andaz Apna Apna  1994  7.9  http://www.imdb.com/title/tt0109117/  
+
+136  Thadam  2019  7.9  http://www.imdb.com/title/tt7822438/  
+
+137  Maanaadu  2021  7.9  http://www.imdb.com/title/tt4983780/  
+
+138  Padayappa  1999  7.9  http://www.imdb.com/title/tt0213969/  
+
+139  Pelli Choopulu  2016  7.9  http://www.imdb.com/title/tt5824826/  
+
+140  Vaaranam Aayiram  2008  7.9  http://www.imdb.com/title/tt1180583/  
+
+141  Android Kunjappan Version 5.25  2019  7.9  http://www.imdb.com/title/tt9526826/  
+
+142  Gulaal  2009  7.9  http://www.imdb.com/title/tt1261047/  
+
+143  Naduvula Konjam Pakkatha Kaanom  2012  7.9  http://www.imdb.com/title/tt2564144/  
+
+144  Gully Boy  2019  7.9  http://www.imdb.com/title/tt2395469/  
+
+145  Ugly  2013  7.9  http://www.imdb.com/title/tt2882328/  
+
+146  Deewaar  1975  7.9  http://www.imdb.com/title/tt0072860/  
+
+147  Vaastav: The Reality  1999  7.9  http://www.imdb.com/title/tt0220832/  
+
+148  Badhaai ho  2018  7.9  http://www.imdb.com/title/tt7725596/  
+
+149  Ulidavaru Kandanthe  2014  7.9  http://www.imdb.com/title/tt3394420/  
+
+150  Company  2002  7.9  http://www.imdb.com/title/tt0296574/  
+
+151  Evaru  2019  7.9  http://www.imdb.com/title/tt10545484/  
+
+152  Kshanam  2016  7.9  http://www.imdb.com/title/tt5504168/  
+
+153  Padosan  1968  7.9  http://www.imdb.com/title/tt0063404/  
+
+154  Aadukalam  2011  7.9  http://www.imdb.com/title/tt1821317/  
+
+155  Maanagaram  2017  7.9  http://www.imdb.com/title/tt5559528/  
+
+156  Nayattu  2021  7.9  http://www.imdb.com/title/tt11604676/  
+
+157  Thondimuthalum Dhriksakshiyum  2017  7.9  http://www.imdb.com/title/tt5906392/  
+
+158  Dev.D  2009  7.9  http://www.imdb.com/title/tt1327035/  
+
+159  My Name Is Khan  2010  7.9  http://www.imdb.com/title/tt1188996/  
+
+160  Major  2022  7.8  http://www.imdb.com/title/tt9851854/  
+
+161  Pranchiyettan and the Saint  2010  7.8  http://www.imdb.com/title/tt1695800/  
+
+162  Take Off  2017  7.8  http://www.imdb.com/title/tt6315524/  
+
+163  Baishe Srabon  2011  7.8  http://www.imdb.com/title/tt2075108/  
+
+164  Kal Ho Naa Ho  2003  7.8  http://www.imdb.com/title/tt0347304/  
+
+165  Jab We Met  2007  7.8  http://www.imdb.com/title/tt1093370/  
+
+166  Arjun Reddy  2017  7.8  http://www.imdb.com/title/tt7294534/  
+
+167  Ayyappanum Koshiyum  2020  7.8  http://www.imdb.com/title/tt11322920/  
+
+168  Manjhi: The Mountain Man  2015  7.8  http://www.imdb.com/title/tt3449292/  
+
+169  Super 30  2019  7.8  http://www.imdb.com/title/tt7485048/  
+
+170  Mukkabaaz  2017  7.8  http://www.imdb.com/title/tt7180544/  
+
+171  Dil Bechara  2020  7.8  http://www.imdb.com/title/tt8110330/  
+
+172  Border  1997  7.8  http://www.imdb.com/title/tt0118751/  
+
+173  Deiva Thirumagal  2011  7.8  http://www.imdb.com/title/tt1857670/  
+
+174  Ship of Theseus  2012  7.8  http://www.imdb.com/title/tt1773764/  
+
+175  Karnan  2021  7.8  http://www.imdb.com/title/tt11581174/  
+
+176  Jalsaghar  1958  7.8  http://www.imdb.com/title/tt0051792/  
+
+177  Vedam  2010  7.8  http://www.imdb.com/title/tt1649431/  
+
+178  Charlie  2015  7.8  http://www.imdb.com/title/tt5082014/  
+
+179  Padman  2018  7.8  http://www.imdb.com/title/tt7218518/  
+
+180  Salaam Bombay!  1988  7.8  http://www.imdb.com/title/tt0096028/  
+
+181  Bãhubali: The Beginning  2015  7.8  http://www.imdb.com/title/tt2631186/  
+
+182  Ankhon Dekhi  2013  7.8  http://www.imdb.com/title/tt3614516/  
+
+183  RRR (Rise Roar Revolt)  2022  7.8  http://www.imdb.com/title/tt8178634/  
+
+184  Baby  2015  7.8  http://www.imdb.com/title/tt3848892/  
+
+185  Vinnaithaandi Varuvaayaa  2010  7.8  http://www.imdb.com/title/tt1609168/  
+
+186  Malik  2021  7.8  http://www.imdb.com/title/tt10919240/  
+
+187  Pizza  2012  7.8  http://www.imdb.com/title/tt2585562/  
+
+188  M.S. Dhoni: The Untold Story  2016  7.8  http://www.imdb.com/title/tt4169250/  
+
+189  Kirik Party  2016  7.8  http://www.imdb.com/title/tt6054758/  
+
+190  Hindi Medium  2017  7.8  http://www.imdb.com/title/tt5764096/  
+
+191  English Vinglish  2012  7.8  http://www.imdb.com/title/tt2181931/  
+
+192  Lakshya  2004  7.8  http://www.imdb.com/title/tt0323013/  
+
+193  Memories  2013  7.8  http://www.imdb.com/title/tt3124456/  
+
+194  Dor  2006  7.8  http://www.imdb.com/title/tt0824316/  
+
+195  Airlift  2016  7.8  http://www.imdb.com/title/tt4387040/  
+
+196  Johnny Gaddaar  2007  7.8  http://www.imdb.com/title/tt1077248/  
+
+197  Joseph  2018  7.8  http://www.imdb.com/title/tt8561086/  
+
+198  Hey Ram  2000  7.8  http://www.imdb.com/title/tt0222012/  
+
+199  Kaakha..Kaakha: The Police  2003  7.8  http://www.imdb.com/title/tt0375878/  
+
+200  The Tashkent Files  2019  7.8  http://www.imdb.com/title/tt8108268/  
+
+201  Hridayam  2022  7.7  http://www.imdb.com/title/tt11375428/  
+
+202  Gangaajal  2003  7.7  http://www.imdb.com/title/tt0373856/  
+
+203  Anjaam Pathiraa  2020  7.7  http://www.imdb.com/title/tt10717738/  
+
+204  Vettaiyaadu Vilaiyaadu  2006  7.7  http://www.imdb.com/title/tt0455829/  
+
+205  Mumbai Police  2013  7.7  http://www.imdb.com/title/tt2924472/  
+
+206  The Lunchbox  2013  7.7  http://www.imdb.com/title/tt2350496/  
+
+207  Ab Tak Chhappan  2004  7.7  http://www.imdb.com/title/tt0402014/  
+
+208  Okkadu  2003  7.7  http://www.imdb.com/title/tt0366840/  
+
+209  Unnaipol Oruvan  2009  7.7  http://www.imdb.com/title/tt1417299/  
+
+210  Pokiri  2006  7.7  http://www.imdb.com/title/tt0816258/  
+
+211  Angamaly Diaries  2017  7.7  http://www.imdb.com/title/tt6167894/  
+
+212  Secret Superstar  2017  7.7  http://www.imdb.com/title/tt6108090/  
+
+213  Thuppakki  2012  7.7  http://www.imdb.com/title/tt2187153/  
+
+214  Oopiri  2016  7.7  http://www.imdb.com/title/tt5039054/  
+
+215  Manam  2014  7.7  http://www.imdb.com/title/tt2926068/  
+
+216  Vicky Donor  2012  7.7  http://www.imdb.com/title/tt2317337/  
+
+217  Ghilli  2004  7.7  http://www.imdb.com/title/tt0422320/  
+
+218  Mother India  1957  7.7  http://www.imdb.com/title/tt0050188/  
+
+219  RangiTaranga  2015  7.7  http://www.imdb.com/title/tt4432480/  
+
+220  Veer-Zaara  2004  7.7  http://www.imdb.com/title/tt0420332/  
+
+221  Stanley Ka Dabba  2011  7.7  http://www.imdb.com/title/tt1907761/  
+
+222  Kaththi  2014  7.7  http://www.imdb.com/title/tt3801314/  
+
+223  Mimi  2021  7.7  http://www.imdb.com/title/tt10895576/  
+
+224  Udta Punjab  2016  7.7  http://www.imdb.com/title/tt4434004/  
+
+225  Rock On!!  2008  7.7  http://www.imdb.com/title/tt1230165/  
+
+226  Nayak: The Real Hero  2001  7.7  http://www.imdb.com/title/tt0291376/  
+
+227  Mr. India  1987  7.7  http://www.imdb.com/title/tt0093578/  
+
+228  Dia  2020  7.7  http://www.imdb.com/title/tt11235142/  
+
+229  Badla  2019  7.7  http://www.imdb.com/title/tt8130968/  
+
+230  Happy Days  2007  7.7  http://www.imdb.com/title/tt1214961/  
+
+231  Thulladha Manamum Thullum  1999  7.7  http://www.imdb.com/title/tt1517561/  
+
+232  Sonchiriya  2019  7.7  http://www.imdb.com/title/tt8108200/  
+
+233  Raazi  2018  7.7  http://www.imdb.com/title/tt7098658/  
+
+234  Minnal Murali  2021  7.7  http://www.imdb.com/title/tt7268738/  
+
+235  Dasvidaniya  2008  7.7  http://www.imdb.com/title/tt1288638/  
+
+236  Aayirathil Oruvan  2010  7.7  http://www.imdb.com/title/tt1512888/  
+
+237  Poove Unakkaga  1996  7.7  http://www.imdb.com/title/tt2325915/  
+
+238  Kai po che!  2013  7.7  http://www.imdb.com/title/tt2213054/  
+
+239  Joji  2021  7.7  http://www.imdb.com/title/tt13206926/  
+
+240  Goodachari  2018  7.7  http://www.imdb.com/title/tt7758160/  
+
+241  Ko  2011  7.7  http://www.imdb.com/title/tt1851988/  
+
+242  Don  1978  7.6  http://www.imdb.com/title/tt0077451/  
+
+243  Aligarh  2015  7.6  http://www.imdb.com/title/tt5121000/  
+
+244  Ennu Ninte Moideen  2015  7.6  http://www.imdb.com/title/tt4888834/  
+
+245  Guru  2007  7.6  http://www.imdb.com/title/tt0499375/  
+
+246  24  2016  7.6  http://www.imdb.com/title/tt4981966/  
+
+247  Velaiilla Pattadhari  2014  7.6  http://www.imdb.com/title/tt3822396/  
+
+248  Kapoor & Sons  2016  7.6  http://www.imdb.com/title/tt4900716/  
+
+249  Colour Photo  2020  7.6  http://www.imdb.com/title/tt13097434/  
+
+250  Rockstar  2011  7.6  http://www.imdb.com/title/tt1839596/  
+

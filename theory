@@ -1,0 +1,119 @@
+
+We will scrape the list of Top 250 Indian Movies from India. After that we will analyze the details of the movies. You can see this list on this link.
+
+1. From the list of top 250 Indian movies, we will extract the details of all the 
+movies in our Python code.
+2. Movies will be grouped according to their release date.
+3. Movies will be grouped according to the Decade of Release. Like sarees will print movies of 1960s together, sets of 1970s separately.
+
+4. Movies will be grouped according to their directors and actors.
+5. It will be seen which actors work with each other the most. Rajesh Khanna and Amitabh Bachchan have more movies together or Rajesh Khanna and Dev Anand.
+
+How can we scrape in Python?
+
+HTML is rendered by browsers. But we can get the same HTML in Python using requests. Show how to install requests.
+
+Print the same HTML in the Terminal which you got.
+
+Install BeautifulSoup and show how we can get the title and a few other tags to give a basic glimpse into BeautifulSoup of a page using Beautiful Soup?
+
+Packages need to Scrape Data and why we use them
+What is pip?
+We install Pip because it is a package management system which helps in installing the Python module.
+
+
+pip is a package management system used to install and manage software packages written in Python.
+
+
+Why we use module requests?
+We do this here with a modular request because the web page we are scraping, then the requests will collect a sample data from us.
+
+
+we use import the Requests module so that we can collect a sample web page:
+
+Why we use pip install beautifulsoup4?
+
+This is a Python package that parses Hutml and Cml documents.
+Beautiful Soup is a Python package for parsing HTML and XML documents
+###
+Step 1. import requests
+Step 2. URL = "Yha per apka url hoga jis bhi web page ko aap scrape karna chahte ho"
+Step 3. sample = requests.get(URL)
+Step 4. from bs4 import BeautifulSoup
+Step 5. soup = BeautifulSoup(sample.text,"html.parser") # iss object ke throw hum kahi bhi khel sakte hai
+Step 6. Title = soup.title
+
+print(Title)#ye apke web page ka title print karega
+
+The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form. There are different ways to scrape websites such as online Services, APIs or writing your own code. In this article, we'll see how to implement web scraping with python.
+
+html
+
+browser
+A browser is software on your computer which you use to 'surf' the internet and visit webpages. If you want to view web pages on different websites, you will need to use a 'browser'. It acts as a door to the internet. Browsers differ slightly but all do the same job.
+
+bs4(beautiful soup)
+Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
+
+
+Beautiful Soup is a Python package for parsing HTML and XML documents (including having malformed markup, i.e. non-closed tags, so named after tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
+
+How do you get BeautifulSoup in Python?
+To use beautiful soup, you need to install it: $ pip install beautifulsoup4 . Beautiful Soup also relies on a parser, the default is lxml . You may already have it, but you should check (open IDLE and attempt to import lxml). If not, do: $ pip install lxml or $ apt-get install python-lxml .
+
+Why is it called BeautifulSoup?
+Beautiful Soup, is named after so-called 'tag soup', which refers to “syntactically or structurally incorrect HTML written for a web page”, from the Wikipedia definition. jsoup is the Java version of Beautiful Soup. In this article, we'll see an example of Beautiful Soup.
+
+pip
+What is pip ? pip is the standard package manager for Python. It allows you to install and manage additional packages that are not part of the Python standard library.
+
+
+PIP is a package manager for Python packages, or modules if you like. Note: If you have Python version 3.4 or later, PIP is included by default.
+
+The system will use one of your Python versions depending on what exactly is first in the system PATH variable.	When you run PIP3, you can be sure that the module will be installed in Python 3.
+
+module
+A Python module is a file containing Python definitions and statements. A module can define functions, classes, and variables. A module can also include runnable code. Grouping related code into a module makes the code easier to understand and use. It also makes the code logically organized.
+
+What is Python module with example?
+What are modules in Python? Modules refer to a file containing Python statements and definitions. A file containing Python code, for example: example.py , is called a module, and its module name would be example . We use modules to break down large programs into small manageable and organized files.
+
+
+An API or Application Programming Interface, is a server that you can use to retrieve and send data to using code. APIs are most commonly used to retrieve data
+
+An API (Application Programming Interface) is a set of rules that are shared by a particular service. These rules determine in which format and with which command set your application can access the service, as well as what data this service can return in the response. 
+
+The API acts as a layer between your application and external service. You do not need to know the internal structure and features of the service, you just send a certain simple command and receive data in a predetermined format.
+
+How does an API work?
+API stands for “Application Programming Interface.” An API is a software intermediary that allows two applications to talk to each other. In other words, an API is the messenger that delivers your request to the provider that you're requesting it from and then delivers the response back to you.
+
+Blog » The Dev Room » Types of APIs
+Achieve the impossible with APIs RapidAPI
+Types of APIs
+By RapidAPI Staff // June 14, 2021
+
+Table of Contents [show]
+
+What is an API?
+API stands for Application Programming Interface, which is a mechanism that allows the interaction between two applications using a set of rules.
+
+APIs are beneficial because they allow developers to add specific functionality to an application, without having to write all of the code themselves. 
+APIs also allow developers to access data from other applications. For example, when bloggers put their Twitter handle on their blog’s sidebar, WordPress enables this by using Twitter’s API.
+
+Main types of Web APIs
+There are four main types of APIs:
+
+Open APIs: Also known as Public API, there are no restrictions to access these types of APIs because they are publicly available.
+
+Partner APIs: A developer needs specific rights or licenses in order to access this type of API because they are not available to the public.
+
+Internal APIs: Also known as Private APIs, only internal systems expose this type of API. These are usually designed for internal use within a company. The company uses this type of API among the different internal teams to be able to improve its products and services.
+
+Composite APIs: This type of API combines different data and service APIs. It is a sequence of tasks that run synchronously as a result of the execution, and not at the request of a task. Its main uses are to speed up the process of execution and improve the performance of the listeners in the web interfaces.
+
+web scrappig
+ethical scrapping
+non ethical
+
+
